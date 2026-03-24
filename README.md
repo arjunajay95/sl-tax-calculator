@@ -2,7 +2,7 @@
 
 A Python program that calculates progressive income tax based on Sri Lanka's April 2025 tax reforms. It processes multiple taxpayer incomes, generates detailed breakdowns, ranks taxpayers by tax paid, and outputs summary statistics.
 
----
+<br>
 
 ## What It Does
 
@@ -24,7 +24,7 @@ Given a list of annual incomes, the program:
 | 3,800,001 - 4,300,000 | 30% |
 | Above 4,300,000 | 36% |
 
----
+<br>
 
 ## How to Run
 
@@ -36,7 +36,7 @@ python tax_calculator.py
 
 The `incomes` list in `main()` can be edited to test different values.
 
----
+<br>
 
 ## Key Concepts
 
@@ -46,7 +46,7 @@ The `incomes` list in `main()` can be edited to test different values.
 
 **`zip()`** pairs the incomes list with the calculated taxes before sorting, so each income stays matched to its corresponding tax figure through the ranking step.
 
----
+<br>
 
 ## What I Learned
 
