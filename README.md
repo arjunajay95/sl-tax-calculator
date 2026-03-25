@@ -6,7 +6,7 @@ A Python program that calculates progressive income tax based on Sri Lanka's Apr
 
 ## What It Does
 
-Given a list of annual incomes, the program:
+Given a list of annual incomes. The program:
 
 - Calculates income tax, effective tax rate, and take-home pay for each person
 - Identifies high earners in the top tax bracket (above Rs. 4,300,000)
